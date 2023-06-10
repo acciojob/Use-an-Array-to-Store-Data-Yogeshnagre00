@@ -1,3 +1,2 @@
 
-let your Array = ['jansi', '22','true','23','rani'];
-console.log(yourArrys.length);
+let yourArray = [21,"hello",'true',23,false];
